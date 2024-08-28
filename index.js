@@ -23,4 +23,5 @@ button.addEventListener("click", () => {
 nul.addEventListener("click",()=>{
   sum =0
   num.textContent = sum
+  salovat.textContent = "Alloh";
 })
